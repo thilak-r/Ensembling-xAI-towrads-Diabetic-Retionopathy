@@ -358,7 +358,9 @@ GitHub: [@thilak-r](https://github.com/thilak-r)
 Project: [DR-AI DETECT](https://github.com/thilak-r/Ensembling-xAI-towrads-Diabetic-Retionopathy)
 
 ---
-
+## References
+Dataset : [APTOS dataset](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered)
+---
 <div align="center">
 
 ### ⭐ Star this repository if you find it helpful!
