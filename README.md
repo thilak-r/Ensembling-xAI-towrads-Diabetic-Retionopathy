@@ -19,18 +19,12 @@ An advanced AI-powered system for early detection and staging of diabetic retino
 
 ## 📋 Quick Navigation
 
-### Core Sections:
-[🔵 Overview](#overview) • [✨ Key Features](#key-features) • [🏗️ System Architecture](#system-architecture) • [📊 Model Performance](#model-performance)
-
-### Technical Details:
-[🛠️ Technology Stack](#technology-stack) • [🚀 Installation](#installation) • [💻 Usage](#usage) • [🧠 Model Details](#model-details)
-
-### Additional Resources:
-[🔬 Explainable AI](#explainable-ai) • [📸 Screenshots](#screenshots) • [📁 Project Structure](#project-structure) • [🤝 Contributing](#contributing)
-
-### Legal & Contact:
-[📄 License](#license) • [⚠️ Disclaimer](#disclaimer) • [📚 Citation](#citation) • [📧 Contact](#contact)
-
+| Core Sections | Technical Details | Additional Resources | Legal & Contact |
+|:---:|:---:|:---:|:---:|
+| [🔵 Overview](#overview) | [🛠️ Technology Stack](#technology-stack) | [🔬 Explainable AI](#explainable-ai) | [📄 License](#license) |
+| [✨ Key Features](#key-features) | [🚀 Installation](#installation) | [📸 Screenshots](#screenshots) | [⚠️ Disclaimer](#disclaimer) |
+| [🏗️ System Architecture](#system-architecture) | [💻 Usage](#usage) | [📁 Project Structure](#project-structure) | [📚 Citation](#citation) |
+| [📊 Model Performance](#model-performance) | [🧠 Model Details](#model-details) | [🤝 Contributing](#contributing) | [📧 Contact](#contact) |
 ---
 
 ## 🔍 Overview
