@@ -21,10 +21,11 @@ An advanced AI-powered system for early detection and staging of diabetic retino
 
 | Core Sections | Technical Details | Additional Resources | Legal & Contact |
 |:---:|:---:|:---:|:---:|
-| [🔵 Overview](#overview) | [🛠️ Technology Stack](#technology-stack) | [🔬 Explainable AI](#explainable-ai) | [📄 License](#license) |
-| [✨ Key Features](#key-features) | [🚀 Installation](#installation) | [📸 Screenshots](#screenshots) | [⚠️ Disclaimer](#disclaimer) |
-| [🏗️ System Architecture](#system-architecture) | [💻 Usage](#usage) | [📁 Project Structure](#project-structure) | [📚 Citation](#citation) |
-| [📊 Model Performance](#model-performance) | [🧠 Model Details](#model-details) | [🤝 Contributing](#contributing) | [📧 Contact](#contact) |
+| [🔵 Overview](#-overview) | [🛠️ Technology Stack](#️-technology-stack) | [🔬 Explainable AI](#-explainable-ai) | [📄 License](#-license) |
+| [✨ Key Features](#-key-features) | [🚀 Installation](#-installation) | [📸 Screenshots](#-screenshots) | [⚠️ Disclaimer](#️-disclaimer) |
+| [🏗️ System Architecture](#️-system-architecture) | [💻 Usage](#-usage) | [📁 Project Structure](#-project-structure) | [📚 Citation](#-citation) |
+| [📊 Model Performance](#-model-performance) | [🧠 Model Details](#-model-details) | [🤝 Contributing](#-contributing) | [📧 Contact](#-contact) |
+
 ---
 
 ## 🔍 Overview
@@ -366,3 +367,6 @@ Project: [DR-AI DETECT](https://github.com/thilak-r/Ensembling-xAI-towrads-Diabe
 © 2025 DR-AI Detect Project. All Rights Reserved.
 
 </div>
+```
+
+The key fix: In the Quick Navigation table, the anchor links now include the emoji in the URL (e.g., `#-overview` instead of `#overview`) to match the actual section headers with emojis.
